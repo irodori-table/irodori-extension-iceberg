@@ -784,7 +784,7 @@
   },
   "source": {
     "marketplaceId": "irodori.iceberg",
-    "repository": "https://github.com/hjosugi/irodori-extension-iceberg",
+    "repository": "https://github.com/irodori-table/irodori-extension-iceberg",
     "knowledgeEngineStatus": "recognized_no_connector",
     "adapter": null,
     "adapterSha256": null,

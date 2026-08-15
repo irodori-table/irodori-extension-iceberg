@@ -939,7 +939,7 @@ dependencies = [
 
 [[package]]
 name = "irodori-extension-iceberg"
-version = "0.3.2"
+version = "0.3.3"
 dependencies = [
  "duckdb",
  "irodori-connector-abi",
